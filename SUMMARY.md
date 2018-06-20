@@ -8,4 +8,6 @@
   * [网络概述](eosio-shi-shen-me/untitled-1.md)
   * [程序和工具](eosio-shi-shen-me/cheng-xu-he-gong-ju.md)
   * [开始](eosio-shi-shen-me/kai-shi.md)
+* [资源](zi-yuan/README.md)
+  * [浏览源代码](zi-yuan/lan-yuan-dai-ma.md)
 
