@@ -2,7 +2,7 @@
 
 * [EOSIO 开发者入门](README.md)
 
-### eosio-home
+## eosio-home
 
 * 概览
   * [EOSIO 是什么](eosio-shi-shen-me/eosio-shi-shen-me.md)
@@ -16,11 +16,13 @@
 * [资源](zi-yuan/README.md)
   * [浏览源代码](zi-yuan/lan-yuan-dai-ma.md)
   
-### eosio-nodeos
+## eosio-nodeos
+### 文档
+* [CHAIN](zi-yuan/README.md)
 
-* [文档](zi-yuan/README.md)
-* [API 参考](zi-yuan/README.md)
+### API 参考
 
-### eosio-cpp
+
+## eosio-cpp
 * [文档](zi-yuan/README.md)
 * [API 参考](zi-yuan/README.md)
