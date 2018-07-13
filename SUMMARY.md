@@ -3,9 +3,9 @@
 * [EOSIO 开发者入门](README.md)
 
 ### 总体介绍
-* [EOSIO 是什么](eosio-home/docs/eosio-shi-shen-me.md)
-* [历史](eosio-home/docs/li-shi.md)
-* [特性]()
+* [EOSIO 是什么](eosio-home/docs/what-is-eos.md)
+* [历史](eosio-home/docs/history.md)
+* [优势](eosio-home/docs/benefits.md)
 * [网络概述]()
 * [程序和工具]()
 * [开始]()

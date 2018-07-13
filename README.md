@@ -9,3 +9,4 @@
 ##### 参考：
 
 [EOS.IO 技术白皮书 v2](https://github.com/EOSLaoMao/Documentation/blob/master/zh-CN/TechnicalWhitePaper-v2.md)
+[EOS 中文社区 Wiki](https://eosfans.io/wiki/recent)
